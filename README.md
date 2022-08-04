@@ -1,0 +1,2 @@
+# MinMaxDeger
+proje
